@@ -12,7 +12,7 @@
 #### Навыки
 - **Продвинутый**: JavaScript, Vue v2 (в т.ч. router, vuex, vuelidate)
 - **Cредний**: HTML, CSS, Vue v3, Google Cloud Platform, Firebase
-- **Начальный**: SCSS, React, TypeScript, WebPack.
+- **Начальный**: SCSS, React, TypeScript, WebPack, Jest.
 
 #### Контакты
 - **Почтa**: vnstd.dev@gmail.com
