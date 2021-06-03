@@ -1,20 +1,38 @@
-### Hello, world 👋
-#### Опыт работы
-- **Фриланс**  
-Занимался версткой и валидацией форм, версткой лендингов для интернет торговли, улучшением производительности одностраничных веб-приложений на **Vue** и написанием их логики, а также принимал участие в разработке компонентов и миграции проекта с **jQuery** на **Vue**. 
-- В свободное время занимаюсь разработкой собственного сервиса для организации мероприятий [Eventma.ru](https://eventma.ru/ "Eventma.ru"), по этому же проекту была написана выпускная квалификационная работа бакалавра. 
+#### Hello, world 👋
+  
+### Experience
 
-#### Образование
-- **2020-2022** Магистратура факультета автоматики и вычислительной техники, **Новосибирский Государственный Технический Университет**.
-- **2016-2020** Бакалавриат факультета автоматики и вычислительной техники, **Новосибирский Государственный Технический Университет**.
-- **2019-2020** Школа фронтенд разработки **СКБ Контур**.
+Since October 2020, I'm involved in the development of several fintech services related to the exchange of crypto and fiat currencies.  
+  
+My responsibilities include:  
+- Development of the front-end part of the projects. Writing and support of complex modules and components, implemented on Vue technology stack;
+- Implementation of business logic, new functionality;
+- Code refactoring and writing documentation;
+- Adaptive SCSS based layout for modern browsers;
+  
+Prior to my current position, I worked on freelance sites from February 2017 to October 2020. 
+I was involved in the layout of internet commerce web pages, improving the performance of web applications, and developing complex components. Took part in migrating a project from JQuery to Vue. Also had experience writing CSS3 animations.
 
-#### Навыки
-- **Продвинутый**: JavaScript, Vue (в т.ч. официальные инструменты и библиотеки экосистемы Vue)
-- **Cредний**: HTML, CSS, SCSS, Google Cloud Platform, Firebase
-- **Начальный**: React, TypeScript, WebPack, Jest.
+Now, as a pet-project, I am designing and developing my own service for easy management and monitoring of finances.  
+  
+### Education  
+  
+- **2020 - 2022**  
+Master's degree in Automation and Computer Science, NSTU.  
+Thesis - “Research and development of a method for optimizing web applications”.
+- **2016 - 2020**  
+Bachelor's degree in Automation and Computer Science, NSTU.  
+Thesis - “Development of a serverless web application to organize and finance manage events”.
+- **2019 - 2020**  
+SKB Kontur frontend development school.  
+  
+### Skills  
 
-#### Контакты
-- **Почтa**: vnstd.dev@gmail.com
-- **Telegram**: [@vnstd](https://t.me/vnstd "@vnstd")
-- **HeadHunter**: [Batsunov Andrey](https://novosibirsk.hh.ru/resume/9e805143ff072c1aba0039ed1f5139324d5776 "Batsunov Andrey")
+- **Advanced**: JavaScript, Vue ( Vuetify, Quasar and the official tools and libraries of the Vue ecosystem ).
+- **Intermediate**: React Native, Redux, TypeScript, Firebase, WebPack, SCSS, Node.
+- **Basic**: Docker, Jest.
+
+### Contacts  
+- **Email**: vnstd.dev@gmail.com  
+- **Telegram**: [@vnstd](https://t.me/vnstd "@vnstd")  
+
