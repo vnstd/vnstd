@@ -2,7 +2,7 @@
   
 ### Experience
 
-Since October 2020, I'm involved in the development of several fintech services related to the exchange of crypto and fiat currencies.  
+  Since October 2020, I'm involved in the development of several fintech services related to the exchange of crypto and fiat currencies.  
   
 My responsibilities include:  
 - Development of the front-end part of the projects. Writing and support of complex modules and components, implemented on Vue technology stack;
@@ -28,9 +28,11 @@ SKB Kontur frontend development school.
   
 ### Skills  
 
-- **Advanced**: JavaScript, Vue ( Vuetify, Quasar and the official tools and libraries of the Vue ecosystem ).
-- **Intermediate**: React Native, Redux, TypeScript, Firebase, WebPack, SCSS, Node.
-- **Basic**: Docker, Jest.
+- JavaScript / TypeScript, Vue ( Vuetify, Quasar and the official tools and libraries of the Vue ecosystem );
+- React Native, Redux, React Navigation;
+- CSS / SCSS, BEM, HTML5;
+- Docker, Jest, Firebase, WebPack;
+- Time complexity of algorithms, code quality, refactoring, automation, unit testing.
 
 ### Contacts  
 - **Email**: vnstd.dev@gmail.com  
